@@ -1,0 +1,3 @@
+hello
+this is a sample file
+please close after use
